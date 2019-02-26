@@ -1,4 +1,6 @@
 #Autor : Henrique Wippel Parucker da Silva
+#Para compilar basta usar o python 3 e digitar o nome do arquivo
+#Obs: Código usa a biblioteca sympy que não é nativa
 from sympy import *
 x = Symbol('x')
 if __name__ == '__main__':
